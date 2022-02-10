@@ -16,4 +16,4 @@ class Person:
     
 x = Person("Malik", "Ubaydullaev", 1986)
 print(x.get_full_name(), x.Get_age())
-
+#
