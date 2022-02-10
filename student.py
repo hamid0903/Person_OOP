@@ -4,3 +4,8 @@ class Student:
         self.last_name=last_name
         self.birth_date=birth_date
         self.major=major
+
+    def get_age(self):
+        age=2022-self.birth_date
+        return age
+
