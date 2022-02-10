@@ -1,3 +1,3 @@
 class Person:
-    def __init__(self):
-        pass
+    def __init__(self, first_name, last_name, bith_name):
+        
