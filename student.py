@@ -4,4 +4,7 @@ class Student:
         self.last_name=last_name
         self.birth_date=birth_date
         self.major=major
-        pass
+    
+    def get_major(self):
+        return self.major
+
