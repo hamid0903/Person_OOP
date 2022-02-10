@@ -1,3 +1,4 @@
+
 class Person:
     def __init__(self, first_name, last_name, birth_date) -> None:
         self.first_name = first_name
@@ -11,5 +12,4 @@ class Person:
     def get_full_name(self,first_name, last_name):
         self.full_name = first_name + last_name
         return self.full_name
-        
-    
+
