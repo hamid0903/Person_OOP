@@ -14,7 +14,5 @@ class Person:
         return full_name
       
       
-a=Person('Ravshan','Abdulrakhman',1950)
-print(a.get_age())
 
 
